@@ -20,11 +20,11 @@
             {
                 "TYPING_LETTER":
                 [
-                    "sounds/Beep.mp3"
+                    "Beep.mp3"
                 ],
                 "TYPING_ENTER":
                 [
-                    "sounds/BoomFireForce.mp3"
+                    "BoomFireForce.mp3"
                 ],
                 "TYPING_SPACE":
                 [
@@ -32,7 +32,7 @@
                 ],
                 "TYPING_BACKSPACE":
                 [
-                    "sounds/ZA WARUDO.mp3"
+                    "ZA WARUDO.mp3"
                 ]
             }
         }
