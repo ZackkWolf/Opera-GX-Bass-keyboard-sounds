@@ -1,0 +1,40 @@
+{
+    "manifest_version": 1,
+    "name": "Keyboard Bass",
+    "description": "Anime Bass for special keys",
+    "version": "1",
+    "icons":
+    {
+        "512": "paint.jpg"
+    },
+    "developer":
+    {
+        "name": "Ash"
+    },
+    "mod":
+    {
+        "schema_version": 1,
+        "payload":
+        {
+            "keyboard_sounds":
+            {
+                "TYPING_LETTER":
+                [
+                    "sounds/Beep.mp3"
+                ],
+                "TYPING_ENTER":
+                [
+                    "sounds/BoomFireForce.mp3"
+                ],
+                "TYPING_SPACE":
+                [
+                    ""
+                ],
+                "TYPING_BACKSPACE":
+                [
+                    "sounds/ZA WARUDO.mp3"
+                ]
+            }
+        }
+    }
+}
